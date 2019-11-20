@@ -1,6 +1,11 @@
 
 @import "reset";
 
+@font-face {
+    font-family:  "Lab Mono Regular";
+    src: url(fonts/labmono-regular.woff), url(fonts/labmono-regular.woff2);
+  }
+
 @import url("https://use.typekit.net/qpz8pfp.css");
 
 
@@ -16,7 +21,7 @@ html {
 
 body {
     background-color:$secondary-color;
-    font-family: neue-haas-grotesk-display;
+    font-family: Lab Mono Regular;
     font-size: 26px;
     font-weight: 400;
 }
