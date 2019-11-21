@@ -1,5 +1,5 @@
 {
-  "name": "tropicali",
+  "name": "typo-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellojasonbooth/tropicali.git"
+    "url": "git+https://github.com/hellojasonbooth/typo-test.git"
   },
   "author": "jason booth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hellojasonbooth/tropicali/issues"
+    "url": "https://github.com/hellojasonbooth/typo-test/issues"
   },
-  "homepage": "https://github.com/hellojasonbooth/tropicali#readme",
+  "homepage": "https://github.com/hellojasonbooth/typo-test#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
